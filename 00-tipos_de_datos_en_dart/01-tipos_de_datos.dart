@@ -24,6 +24,12 @@ print(palabra2);
 print(multilinea);
 
 //----Tipos de datos booleanos----//
+//Sirven para almacenar verdadeos, falsos o nulos
+var nulo;/* Valor nulo */
+bool valorBooleano = true; 
 
+print(nulo);
+
+print(valorBooleano);
 
 }
