@@ -23,4 +23,7 @@ print(palabra);
 print(palabra2);
 print(multilinea);
 
+//----Tipos de datos booleanos----//
+
+
 }
