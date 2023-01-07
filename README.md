@@ -3,5 +3,5 @@
 Guía completa de estudio para aprender programación en Dart.
 
 - Temas:
-+ Tipos de datos.
+  + Tipos de datos.
 
