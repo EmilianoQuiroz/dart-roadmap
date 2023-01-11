@@ -19,4 +19,11 @@ main()
   == Revisa si dos objetos son iguales
   != revisa si los dos objetos son diferentes
   */
+
+  //Operador de tipo
+  int i = 10;
+  String j = '10';
+
+  print(i is int);/*Pregunta su i es de tipo entero*/
+  print(j is! String);/*Pregunta si j no es string*/
 }
