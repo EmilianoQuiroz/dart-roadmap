@@ -69,3 +69,27 @@ Guía completa de estudio para aprender programación en Dart.
 - onError, onDone y cancelOnError
 
 - Broadcast
+
+- Estructura de una clase
+
+- Clases en archivos independientes
+
+- Propiedades públicas y privadas
+
+- Getters
+
+- Setters
+
+- Constructores básicos
+
+- Constructores con nombre
+
+- Propiedades finales
+
+- Constructores constantes
+
+- Constructores factory
+
+- Propiedades y métodos estáticos
+
+- Singleton
