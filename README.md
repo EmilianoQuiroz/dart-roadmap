@@ -53,3 +53,19 @@ Guía completa de estudio para aprender programación en Dart.
 - Funciones Lambda o funciones de Flecha
 
 - Callbacks
+
+- Queues o Colas
+
+- Enumeraciones
+
+- Futures
+
+- Async y Await
+
+- CatchError
+
+- Streams
+
+- onError, onDone y cancelOnError
+
+- Broadcast
