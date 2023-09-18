@@ -18,3 +18,15 @@ Guía completa de estudio para aprender programación en Dart.
 
     - Mapas
 
+- Variables
+
+- Constantes vs Finals
+
+- Operadores Aritméticos
+
+- Operadores de Asignación
+
+- Operadores condicionales
+
+- Operadores relacionales
+
