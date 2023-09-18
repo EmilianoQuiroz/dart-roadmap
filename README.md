@@ -103,3 +103,25 @@ Guía completa de estudio para aprender programación en Dart.
 - Override
 
 - Mixins
+
+- Métodos y propiedades de doubles
+
+- Métodos y propiedades de Strings
+
+- Métodos y propiedades de Listas
+
+- Métodos y propiedades de Mapas
+
+- Leer la documentación
+
+- Paquetes
+
+- Estructura de proyectos
+
+- Qué subir a un repositorio
+
+- Paquete Http
+
+- Mapear datos de respuesta
+
+- Optimizaciones
