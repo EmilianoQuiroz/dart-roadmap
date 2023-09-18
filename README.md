@@ -30,3 +30,17 @@ Guía completa de estudio para aprender programación en Dart.
 
 - Operadores relacionales
 
+- If y else
+
+- Ciclo For
+
+- For In
+
+- While
+
+- Do While
+
+- Break y Continue
+
+- Switch 
+
