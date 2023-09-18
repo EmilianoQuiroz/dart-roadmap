@@ -44,3 +44,12 @@ Guía completa de estudio para aprender programación en Dart.
 
 - Switch 
 
+- Funciones básicas
+
+- Argumentos
+
+- Argumentos por valor y referencia
+
+- Funciones Lambda o funciones de Flecha
+
+- Callbacks
