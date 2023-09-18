@@ -93,3 +93,13 @@ Guía completa de estudio para aprender programación en Dart.
 - Propiedades y métodos estáticos
 
 - Singleton
+
+- Extends
+
+- Clases abstractas
+
+- Super Constructor
+
+- Override
+
+- Mixins
